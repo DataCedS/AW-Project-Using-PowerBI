@@ -3,3 +3,6 @@ Utilize Power BI for data-driven insights to enhance Adventure Works' efficiency
 
 ## Get Data
 Download the [AdventureWorks Sales sample Excel workbook](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx).
+
+## Steps
+
