@@ -7,4 +7,4 @@ Download the [AdventureWorks Sales sample Excel workbook](https://github.com/mic
 ## Steps
 1. Load all data to Power BI
 2. Clean and format datasets
-3. 
+3. Data Modeling
